@@ -1,4 +1,5 @@
-<h1 align="center">DESENVOLVIMENTO DE SOFTWARE - FOCO EM BACKEND - IFOOD</h1>
+<h1 align="center">DESENVOLVIMENTO DE SOFTWARE</h1>
+<h2 align="center">FOCO EM BACKEND - IFOOD</h2>
 
 ## Curso Cubos Academy
 Repositório do Exercício de Casa da Unidade 1 / aula 02 - Setup de ferramentas 
